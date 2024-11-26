@@ -1,0 +1,14 @@
+.{
+    .name = "zig-gamedev",
+    .version = "0.6.0",
+    .minimum_zig_version = "0.14.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "README.md",
+        "LICENSE",
+    },
+    .dependencies = .{
+    },
+}
